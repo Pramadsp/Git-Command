@@ -3,16 +3,16 @@
 git init
 ```
 
+### Add file
+```git
+git add filename or git add . (to all file)
+git commit -m "commit name"
+```
+
 ### Add url
 ```git
 git remote add origin (copas url git)
 git remote -v // check available remote url
-```
-
-### Add file
-```git
-git add filename // . or -A means all
-git commit -m "commit name" 
 ```
 
 ### Upload local -> remote
